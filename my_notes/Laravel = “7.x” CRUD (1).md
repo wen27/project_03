@@ -1,4 +1,4 @@
-# Laravel = "7.x" CRUD (1)
+# Laravel = "7.x" CRUD (1)  [2020-09-19]
 ### <font color="#f00">資料庫:</font>
 * 集結Laravel跟Composer 套件網站 [packalyst](https://packalyst.com/)(使用套件功能要有安裝Composer )
 
@@ -67,4 +67,4 @@ CDN掛載成功
 ![](https://i.imgur.com/IlnwRz5.png)
 
 ###### tags: `Laravel` `網頁沙龍課程` `Laravel UI`
-2020-09-19
+

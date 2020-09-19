@@ -67,3 +67,4 @@ CDN掛載成功
 ![](https://i.imgur.com/IlnwRz5.png)
 
 ###### tags: `Laravel` `網頁沙龍課程` `Laravel UI`
+2020-09-19
